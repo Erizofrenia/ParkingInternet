@@ -1,0 +1,20 @@
+{
+  "name": "parkinginternet",
+  "version": "1.0.0",
+  "description": "Sistema web para estacionamiento local. Con impresión de tickets, generación de reportes, corte de caja, calculo automatico, control de entradas y salidas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "parkinginternet"
+  },
+  "keywords": [
+    "parking",
+    "park",
+    "internet"
+  ],
+  "author": "Erick Enriquez Altamira",
+  "license": "ISC"
+}
